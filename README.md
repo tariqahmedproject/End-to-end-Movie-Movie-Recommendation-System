@@ -29,7 +29,7 @@ Bootstrap (optional)
 Installation:
 
 # Clone the repository: 
-git clone https://github.com/tariqahmedproject/Movie-Recommendation-System-With-Flask.git
+Download This Project(Zip File) : https://drive.google.com/file/d/12VHKEdWr7fK2O8VrjmgMIFjo01ZmMdru/view?usp=drive_link
 Install the required packages: pip install -r requirements.txt
 Run the Flask app: flask run
 
